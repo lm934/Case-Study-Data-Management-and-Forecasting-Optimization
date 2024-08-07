@@ -1,4 +1,6 @@
 This project focuses on managing and utilizing data from data engineering pipelines to effectively support the data science team in developing accurate forecasting models. The goal is to optimize data preparation processes and facilitate the creation of robust predictive models that leverage the full potential of the datasets.
+
+
 **Objective**
 
 The objectives of this project are to:
@@ -41,9 +43,7 @@ To use this project, follow these steps:
 
     Clone the repository:
 
-    bash
-
-git clone https://github.com/yourusername/data-management-forecasting.git
+git clone https://github.com/lm934/Case-Study-Data-Management-and-Forecasting-Optimization.git
 
 **Conclusion**
 
